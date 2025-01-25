@@ -1,4 +1,4 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20230814170347/FullStack-salar.png)](https://yashibapaics22.github.io)
+
 
 <p align="center">
     <a href="https://git.io/typing-svg">
