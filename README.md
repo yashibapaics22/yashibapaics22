@@ -20,6 +20,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=yashibapaics22" alt="yashibapaics22" />
     </a> 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashibapaics22&label=Profile%20views&color=0e75b6&style=flat" alt="yashibajpai" /> </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://yashibapaics22.github.io)
 
